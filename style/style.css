@@ -79,7 +79,7 @@ img{
 .box-header{
   display: flex;
   flex-direction: row;
-  margin-bottom: 0.625rem;
+  margin-inline-end: 0.625rem;
 }
 
 .profile{
